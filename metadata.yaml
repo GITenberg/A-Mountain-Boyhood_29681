@@ -1,0 +1,42 @@
+_repo: A-Mountain-Boyhood_29681
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Comstock, Enos B. (Enos Benjamin)
+    alias: Comstock, E. B. (Enos Benjamin)
+    birthdate: 1879
+    deathdate: 1945
+    gutenberg_agent_id: '34079'
+    url: http://www.gutenberg.org/2009/agents/34079
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mills, Joe
+    alias: Mills, Enoch Josiah
+    birthdate: 1880
+    deathdate: 1935
+    gutenberg_agent_id: '34078'
+    url: http://www.gutenberg.org/2009/agents/34078
+description: ''
+gutenberg_issued: '2009-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29681'
+  lccn: '26021871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mills, Joe, 1880-1935 -- Childhood and youth'
+- !lcc 'F721'
+- !lcsh 'Estes Park Region (Colo.) -- Social life and customs'
+- !lcsh 'Natural history -- Colorado'
+- !lcsh 'Pioneers -- Colorado -- Biography'
+- !lcsh 'Longs Peak (Colo.)'
+- !lcsh 'Rocky Mountain National Park (Colo.) -- History'
+- !lcsh 'Colorado -- Biography'
+title: A Mountain Boyhood
+url: http://www.gutenberg.org/ebooks/29681
